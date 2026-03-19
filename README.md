@@ -16,7 +16,7 @@
 - Design pattern: Page Object Model (POM)
 - CI/CD: GitHub Actions
 - Built internal automation tools with Python + Azure AD OAuth to generate and send Salesforce project data to REST APIs
-- Currently looking for my first QA role 🚀
+
 
 ---
 
