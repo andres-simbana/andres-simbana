@@ -25,15 +25,3 @@
 |---------|-------------|-------|
 | [selenium-python-tests](https://github.com/Anseb77/selenium-python-tests) | E2E test suite with Page Object Model against SauceDemo | Python · Selenium · Pytest |
 | [playwright-python-tests](https://github.com/Anseb77/playwright-python-tests) | Modern browser automation with Playwright | Python · Playwright · Pytest |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anseb77&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anseb77&layout=compact&theme=dark&hide_border=true" />
-</p>
