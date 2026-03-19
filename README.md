@@ -15,7 +15,6 @@
 - Automation: E2E tests with Selenium and Playwright (Python)
 - Design pattern: Page Object Model (POM)
 - CI/CD: GitHub Actions
-- Currently looking for my first QA role 🚀
 
 ---
 
