@@ -42,5 +42,4 @@
 | [restful-booker-selenium](https://github.com/andres-simbana/restful-booker-selenium) | Selenium E2E automation for Restful Booker hotel          platform | Python · Selenium · Pytest |
 | [playwright-python-tests](https://github.com/andres-simbana/playwright-python-tests) | Modern browser automation with Playwright | Python · Playwright · Pytest |
 | [report-automation](https://github.com/andres-simbana/report-automation) | Playwright automation for slow-loading internal report system | Python · Playwright |
-| [qa-pipeline-showcase](https://github.com/andres-simbana/qa-pipeline-showcase) | Full CI/CD pipeline with automated QA tests | Python ·
-  Pytest · Playwright · Postman · GitHub Actions |
+| [qa-pipeline-showcase](https://github.com/andres-simbana/qa-pipeline-showcase) | Full CI/CD pipeline with automated QA tests | Python · Pytest · Playwright · Postman · GitHub Actions |
