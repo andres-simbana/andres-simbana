@@ -44,3 +44,5 @@
 | [report-automation](https://github.com/andres-simbana/report-automation) | Playwright automation for slow-loading internal report system | Python · Playwright |
 | [qa-pipeline-showcase](https://github.com/andres-simbana/qa-pipeline-showcase) | Full CI/CD pipeline with automated QA tests | Python · Pytest · Playwright · Postman · GitHub Actions |
 | [api-testing-pytest](https://github.com/andres-simbana/api-testing-pytest) | REST API testing with fixtures, schema validation and HTML reports | Python · Pytest · Requests · GitHub Actions |
+| [performance-testing-locust ](https://github.com/andres-simbana/performance-testing-locust) | Load and performance testing with spike and stepscenarios | Python · Locust · Pytest · GitHub Actions |
+| [bdd-behave-tests](https://github.com/andres-simbana/bdd-behave-tests) | BDD test suite with human-readable Gherkin scenarios | Python ·   Behave · Gherkin · GitHub Actions |  
